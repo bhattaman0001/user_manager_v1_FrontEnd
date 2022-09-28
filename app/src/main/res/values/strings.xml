@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">User_Manager_V1</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_activity">Sign Up</string>
+    <string name="sign_in_activity">Sign In Activity</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <!--for sign in-->
+    <string name="go_to_sign_in">Already have an account? Sign In</string>
+    <!--for sign up-->
+    <string name="go_to_sign_up">Don\'t have an account? Sign Up</string>
+</resources>

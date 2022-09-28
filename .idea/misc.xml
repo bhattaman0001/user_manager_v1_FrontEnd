@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/drawable/alt_btn_styling.xml" value="0.181" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.121" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/drawable/input_text_field_styling.xml" value="0.121" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/drawable/main_btn_styling.xml" value="0.174" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/layout/activity_main.xml" value="0.17592592592592593" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/layout/activity_profile.xml" value="0.196875" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/layout/activity_sign_in.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/User_Manager_V1/app/src/main/res/layout/activity_sign_up.xml" value="0.16" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
